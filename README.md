@@ -1,2 +1,3 @@
 # curso-git
-respositorio usado para mostrar el funcionamiento de git
+
+Este es un cambio generado desde local
